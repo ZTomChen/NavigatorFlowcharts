@@ -35,9 +35,6 @@
         <mxCell id="FllbzKFlJK6ehd7ZULbo-64" value="Select&lt;div&gt;Destination&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="236" width="98" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="FllbzKFlJK6ehd7ZULbo-71" value="end" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="625" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="FllbzKFlJK6ehd7ZULbo-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FllbzKFlJK6ehd7ZULbo-77" target="FllbzKFlJK6ehd7ZULbo-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -76,7 +73,7 @@
         <mxCell id="FllbzKFlJK6ehd7ZULbo-81" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Select Receipt&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="59.5" y="334" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FllbzKFlJK6ehd7ZULbo-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FllbzKFlJK6ehd7ZULbo-83" target="FllbzKFlJK6ehd7ZULbo-71">
+        <mxCell id="FllbzKFlJK6ehd7ZULbo-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FllbzKFlJK6ehd7ZULbo-83" target="FllbzKFlJK6ehd7ZULbo-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FllbzKFlJK6ehd7ZULbo-83" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Finalise Receipt&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -130,6 +127,17 @@
         </mxCell>
         <mxCell id="FllbzKFlJK6ehd7ZULbo-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FllbzKFlJK6ehd7ZULbo-112" target="FllbzKFlJK6ehd7ZULbo-94">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FllbzKFlJK6ehd7ZULbo-121" value="end" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="715" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FllbzKFlJK6ehd7ZULbo-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FllbzKFlJK6ehd7ZULbo-122">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FllbzKFlJK6ehd7ZULbo-122" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Update Stock Value&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;in Navigator,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Send email for Nexus&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="689" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
