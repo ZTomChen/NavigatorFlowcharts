@@ -46,7 +46,7 @@
             <mxPoint x="450" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FllbzKFlJK6ehd7ZULbo-78" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Receipt&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Consignment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FllbzKFlJK6ehd7ZULbo-78" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Receipt&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Consignment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="269.5" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FllbzKFlJK6ehd7ZULbo-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FllbzKFlJK6ehd7ZULbo-79" target="FllbzKFlJK6ehd7ZULbo-78">
@@ -136,7 +136,7 @@
             <mxPoint x="890" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FllbzKFlJK6ehd7ZULbo-122" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Update Stock Value&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;in Navigator,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Send email for Nexus&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FllbzKFlJK6ehd7ZULbo-122" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Update Stock Value&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;in Navigator,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Send email for Nexus&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="689" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
