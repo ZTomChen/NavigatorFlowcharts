@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1728" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="2" value="start" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="269.5" y="61.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JkhU1cK_ru-Ez6kLOYar-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FllbzKFlJK6ehd7ZULbo-64" target="FllbzKFlJK6ehd7ZULbo-112">
+        <mxCell id="JkhU1cK_ru-Ez6kLOYar-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FllbzKFlJK6ehd7ZULbo-64" target="FllbzKFlJK6ehd7ZULbo-112" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FllbzKFlJK6ehd7ZULbo-64" value="Select&lt;div&gt;Destination&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
@@ -24,7 +24,7 @@
         <mxCell id="FllbzKFlJK6ehd7ZULbo-77" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Open Receiving&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Screen (2201)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="269.5" y="131.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FllbzKFlJK6ehd7ZULbo-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FllbzKFlJK6ehd7ZULbo-78" edge="1" target="FllbzKFlJK6ehd7ZULbo-89">
+        <mxCell id="FllbzKFlJK6ehd7ZULbo-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FllbzKFlJK6ehd7ZULbo-78" target="FllbzKFlJK6ehd7ZULbo-89" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="270" as="targetPoint" />
             <Array as="points">
@@ -43,7 +43,7 @@
         <mxCell id="FllbzKFlJK6ehd7ZULbo-79" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Review&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Purchase Order&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="269.5" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JkhU1cK_ru-Ez6kLOYar-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FllbzKFlJK6ehd7ZULbo-81" target="FllbzKFlJK6ehd7ZULbo-79">
+        <mxCell id="JkhU1cK_ru-Ez6kLOYar-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FllbzKFlJK6ehd7ZULbo-81" target="FllbzKFlJK6ehd7ZULbo-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FllbzKFlJK6ehd7ZULbo-81" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Select/Create Receipt&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -124,13 +124,13 @@
         <mxCell id="ooKo_V_hb8zaq4R_d-ZS-3" value="Local&amp;nbsp;&lt;div&gt;Supplier?&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="742" y="700" width="98" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="ooKo_V_hb8zaq4R_d-ZS-4" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Update Stock Value&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;in Navigator,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Send email for Nexus&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="ooKo_V_hb8zaq4R_d-ZS-4" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Update Stock Quantity&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;in Navigator,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Send email for Nexus&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="552" y="698.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ooKo_V_hb8zaq4R_d-ZS-6" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Update Stock Value&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;in Navigator,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Receive PO in Nexus&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="ooKo_V_hb8zaq4R_d-ZS-6" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Update Stock Quantity&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;in Navigator,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Receive PO in Nexus&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="912" y="698.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JkhU1cK_ru-Ez6kLOYar-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FllbzKFlJK6ehd7ZULbo-112" target="FllbzKFlJK6ehd7ZULbo-94">
+        <mxCell id="JkhU1cK_ru-Ez6kLOYar-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FllbzKFlJK6ehd7ZULbo-112" target="FllbzKFlJK6ehd7ZULbo-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
