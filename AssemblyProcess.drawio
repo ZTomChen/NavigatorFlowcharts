@@ -28,7 +28,7 @@
             <mxPoint x="16" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FllbzKFlJK6ehd7ZULbo-56" value="Existing&lt;div&gt;Assembly?&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="FllbzKFlJK6ehd7ZULbo-56" value="Unfinished&lt;div&gt;Assembly?&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="42.5" y="234.5" width="98" height="57" as="geometry" />
         </mxCell>
         <mxCell id="FllbzKFlJK6ehd7ZULbo-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FllbzKFlJK6ehd7ZULbo-77" target="FllbzKFlJK6ehd7ZULbo-56" edge="1">
@@ -37,17 +37,18 @@
         <mxCell id="FllbzKFlJK6ehd7ZULbo-77" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Open Assembly&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Interface&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="31.5" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FllbzKFlJK6ehd7ZULbo-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FllbzKFlJK6ehd7ZULbo-81" edge="1">
+        <mxCell id="FllbzKFlJK6ehd7ZULbo-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="92" y="540" />
-              <mxPoint x="422" y="540" />
-              <mxPoint x="422" y="160" />
+              <mxPoint x="92" y="530" />
+              <mxPoint x="422" y="530" />
+              <mxPoint x="422" y="150" />
             </Array>
-            <mxPoint x="465" y="160" as="targetPoint" />
+            <mxPoint x="465" y="150" as="targetPoint" />
+            <mxPoint x="91.5" y="384" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FllbzKFlJK6ehd7ZULbo-81" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Tap Assembly&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FllbzKFlJK6ehd7ZULbo-81" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Select Assembly Job&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="31.5" y="334" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FSWND0N6_TuDMLNCHhA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3FSWND0N6_TuDMLNCHhA-2" target="3FSWND0N6_TuDMLNCHhA-3" edge="1">
@@ -59,15 +60,15 @@
         <mxCell id="3FSWND0N6_TuDMLNCHhA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3FSWND0N6_TuDMLNCHhA-3" target="3FSWND0N6_TuDMLNCHhA-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3FSWND0N6_TuDMLNCHhA-3" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Show Pick Marker&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;(Components)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;locations&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3FSWND0N6_TuDMLNCHhA-3" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Scan Pick Marker&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="242" y="334" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FSWND0N6_TuDMLNCHhA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3FSWND0N6_TuDMLNCHhA-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="302" y="540" as="targetPoint" />
+            <mxPoint x="302" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3FSWND0N6_TuDMLNCHhA-5" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Locate all totes&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3FSWND0N6_TuDMLNCHhA-5" value="Review Assembly&lt;div&gt;Photo/Instruction&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="242" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FSWND0N6_TuDMLNCHhA-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3FSWND0N6_TuDMLNCHhA-44" target="77st5OGEvkiJ1o8_86Bu-5" edge="1">
@@ -84,7 +85,7 @@
         <mxCell id="xhCOY_ojmJU9_ownInAu-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3FSWND0N6_TuDMLNCHhA-45" target="xhCOY_ojmJU9_ownInAu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3FSWND0N6_TuDMLNCHhA-45" value="Review Assembly&lt;div&gt;Photo/Instruction&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3FSWND0N6_TuDMLNCHhA-45" value="Locate all parts" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tU1RTp7UTsGop1RhKcKW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tU1RTp7UTsGop1RhKcKW-2" target="3FSWND0N6_TuDMLNCHhA-2" edge="1">
