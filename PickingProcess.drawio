@@ -108,10 +108,10 @@
         <mxCell id="3FSWND0N6_TuDMLNCHhA-37" value="Transfer Out" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="612" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FSWND0N6_TuDMLNCHhA-39" value="Manufacture" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3FSWND0N6_TuDMLNCHhA-39" value="Manufacturing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="612" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FSWND0N6_TuDMLNCHhA-40" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Cross Docking&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3FSWND0N6_TuDMLNCHhA-40" value="Sorting Station" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="528" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FSWND0N6_TuDMLNCHhA-41" value="Assembly" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
