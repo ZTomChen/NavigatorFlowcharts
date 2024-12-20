@@ -28,13 +28,15 @@
           <mxGeometry x="110" y="326" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IlHMZtGNVjniCkJJhIyE-6" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Despatch&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IlHMZtGNVjniCkJJhIyE-25" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IlHMZtGNVjniCkJJhIyE-7" target="IlHMZtGNVjniCkJJhIyE-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BEm4GYZW_KskeXJrbdOM-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IlHMZtGNVjniCkJJhIyE-7" target="BEm4GYZW_KskeXJrbdOM-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BEm4GYZW_KskeXJrbdOM-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IlHMZtGNVjniCkJJhIyE-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IlHMZtGNVjniCkJJhIyE-7" value="Sales Order?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="326" width="120" height="80" as="geometry" />
@@ -69,19 +71,13 @@
         <mxCell id="BEm4GYZW_KskeXJrbdOM-2" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Weigh the carton,&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Save on Navigator&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BEm4GYZW_KskeXJrbdOM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BEm4GYZW_KskeXJrbdOM-7" target="IlHMZtGNVjniCkJJhIyE-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BEm4GYZW_KskeXJrbdOM-7" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Shipping Label&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;and Invoice&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="630" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tfSkVG_J4HKu-Fl51bHs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IlHMZtGNVjniCkJJhIyE-8" target="tfSkVG_J4HKu-Fl51bHs-2">
+        <mxCell id="tfSkVG_J4HKu-Fl51bHs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IlHMZtGNVjniCkJJhIyE-8" target="tfSkVG_J4HKu-Fl51bHs-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="366" as="sourcePoint" />
             <mxPoint x="630" y="366" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tfSkVG_J4HKu-Fl51bHs-2" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Retrieve Parked&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Containers&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tfSkVG_J4HKu-Fl51bHs-2" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Retrieve Parked&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Containers&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="336" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
