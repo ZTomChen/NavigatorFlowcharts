@@ -40,14 +40,8 @@
         <mxCell id="FllbzKFlJK6ehd7ZULbo-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FllbzKFlJK6ehd7ZULbo-79" target="FllbzKFlJK6ehd7ZULbo-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FllbzKFlJK6ehd7ZULbo-79" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Review and&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Create Receipt&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FllbzKFlJK6ehd7ZULbo-79" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Review&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Purchase Order&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="269.5" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FllbzKFlJK6ehd7ZULbo-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FllbzKFlJK6ehd7ZULbo-80" target="FllbzKFlJK6ehd7ZULbo-79" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FllbzKFlJK6ehd7ZULbo-80" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Locate&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;Purchase Order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="70" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JkhU1cK_ru-Ez6kLOYar-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FllbzKFlJK6ehd7ZULbo-81" target="FllbzKFlJK6ehd7ZULbo-79">
           <mxGeometry relative="1" as="geometry" />
