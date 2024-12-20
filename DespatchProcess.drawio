@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,39 +19,41 @@
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IlHMZtGNVjniCkJJhIyE-2" target="d_Sx1PHwJZXIJJpvXMle-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IlHMZtGNVjniCkJJhIyE-2" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Scan Pick Marker&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IlHMZtGNVjniCkJJhIyE-2" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Strap the carton&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-2" target="d_Sx1PHwJZXIJJpvXMle-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-2" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Strap the carton&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="d_Sx1PHwJZXIJJpvXMle-2" value="Scan pick marker" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-4" edge="1">
+        <mxCell id="d_Sx1PHwJZXIJJpvXMle-11" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-4" target="d_Sx1PHwJZXIJJpvXMle-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="d_Sx1PHwJZXIJJpvXMle-15" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-4" target="d_Sx1PHwJZXIJJpvXMle-5" edge="1">
+          <mxGeometry x="0.0036" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-4" value="Account On Hold?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-5" target="d_Sx1PHwJZXIJJpvXMle-7" edge="1">
+        <mxCell id="d_Sx1PHwJZXIJJpvXMle-16" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-5" target="d_Sx1PHwJZXIJJpvXMle-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-5" target="d_Sx1PHwJZXIJJpvXMle-31" edge="1">
+        <mxCell id="d_Sx1PHwJZXIJJpvXMle-35" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-5" target="d_Sx1PHwJZXIJJpvXMle-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-5" value="Pick Up?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="d_Sx1PHwJZXIJJpvXMle-5" value="Cash on Delivery?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="515" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-7" target="d_Sx1PHwJZXIJJpvXMle-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-7" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Adjust Stock,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Invoice&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="d_Sx1PHwJZXIJJpvXMle-7" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Allocate Stock,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Invoice&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="60" y="635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-12" target="d_Sx1PHwJZXIJJpvXMle-21" edge="1">
@@ -63,6 +65,10 @@
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-18" target="d_Sx1PHwJZXIJJpvXMle-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="500" />
+              <mxPoint x="120" y="500" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-30" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d_Sx1PHwJZXIJJpvXMle-19" vertex="1" connectable="0">
@@ -110,7 +116,7 @@
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-32" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Scan Rack/&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Container Location&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-34" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Adjust Stock,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Invoice&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="d_Sx1PHwJZXIJJpvXMle-34" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Allocate Stock,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Invoice&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="650" y="635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-37" target="d_Sx1PHwJZXIJJpvXMle-34" edge="1">
@@ -149,11 +155,8 @@
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-43" value="Pallet?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="625" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-44" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Courier&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Breakdown Pallet&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="d_Sx1PHwJZXIJJpvXMle-44" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Courier&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Pallet/Rack&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="748" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-49" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Breakdown&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="748" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-50" target="d_Sx1PHwJZXIJJpvXMle-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -161,17 +164,8 @@
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-50" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Load onto Pallet&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="635" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-51" target="d_Sx1PHwJZXIJJpvXMle-54" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-51" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Scan Pallet/Skid&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="748" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-54" target="d_Sx1PHwJZXIJJpvXMle-49" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-54" value="Pallet Full?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="738" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
