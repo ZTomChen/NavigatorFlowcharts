@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1728" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-7" target="d_Sx1PHwJZXIJJpvXMle-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-7" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Allocate Stock,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Invoice&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="d_Sx1PHwJZXIJJpvXMle-7" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Allocate Stock,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Invoice,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Shipping Label&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="60" y="535" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-12" target="d_Sx1PHwJZXIJJpvXMle-21" edge="1">
