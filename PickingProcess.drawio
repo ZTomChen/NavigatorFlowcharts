@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1728" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FllbzKFlJK6ehd7ZULbo-56" value="Existing&lt;div&gt;Wave?&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="FllbzKFlJK6ehd7ZULbo-56" value="Unfinished&lt;br&gt;&lt;div&gt;Wave?&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="42.5" y="234.5" width="98" height="57" as="geometry" />
         </mxCell>
         <mxCell id="FllbzKFlJK6ehd7ZULbo-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FllbzKFlJK6ehd7ZULbo-77" target="FllbzKFlJK6ehd7ZULbo-56" edge="1">
@@ -47,7 +47,7 @@
             <mxPoint x="460.5" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FllbzKFlJK6ehd7ZULbo-81" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Select Wave&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FllbzKFlJK6ehd7ZULbo-81" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Select previous Wave&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="31.5" y="334" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FSWND0N6_TuDMLNCHhA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3FSWND0N6_TuDMLNCHhA-2" target="3FSWND0N6_TuDMLNCHhA-3" edge="1">
@@ -59,7 +59,7 @@
         <mxCell id="3FSWND0N6_TuDMLNCHhA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3FSWND0N6_TuDMLNCHhA-3" target="3FSWND0N6_TuDMLNCHhA-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3FSWND0N6_TuDMLNCHhA-3" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Pick Marker&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+        <mxCell id="3FSWND0N6_TuDMLNCHhA-3" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Pick Marker&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="242" y="334" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3FSWND0N6_TuDMLNCHhA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3FSWND0N6_TuDMLNCHhA-5" edge="1">
@@ -120,7 +120,7 @@
         <mxCell id="3FSWND0N6_TuDMLNCHhA-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jc-qgQJ9jOjdrMDaGDhN-2" target="3FSWND0N6_TuDMLNCHhA-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jc-qgQJ9jOjdrMDaGDhN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3FSWND0N6_TuDMLNCHhA-42" target="jc-qgQJ9jOjdrMDaGDhN-2">
+        <mxCell id="jc-qgQJ9jOjdrMDaGDhN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3FSWND0N6_TuDMLNCHhA-42" target="jc-qgQJ9jOjdrMDaGDhN-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3FSWND0N6_TuDMLNCHhA-42" value="Scan Pick Marker&lt;div&gt;Complete Pick&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -153,7 +153,7 @@
         <mxCell id="tU1RTp7UTsGop1RhKcKW-2" value="Sales Order and Transfer Out" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="242" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jc-qgQJ9jOjdrMDaGDhN-2" value="Update Stock Status&lt;div&gt;in Navigator and Nexus&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="jc-qgQJ9jOjdrMDaGDhN-2" value="Update Stock Status&lt;div&gt;in Navigator and Nexus&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="672" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
