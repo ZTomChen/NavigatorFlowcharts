@@ -49,7 +49,7 @@
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-7" target="d_Sx1PHwJZXIJJpvXMle-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-7" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Allocate Stock,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Invoice,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Shipping Label&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="d_Sx1PHwJZXIJJpvXMle-7" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Release Stock,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Invoice,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Shipping Label&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="60" y="535" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-12" target="d_Sx1PHwJZXIJJpvXMle-21" edge="1">
@@ -112,7 +112,7 @@
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-32" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Scan Rack/&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Container Location&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="425" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d_Sx1PHwJZXIJJpvXMle-34" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Allocate Stock,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Invoice&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="d_Sx1PHwJZXIJJpvXMle-34" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Release Stock,&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Invoice&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="650" y="535" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_Sx1PHwJZXIJJpvXMle-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d_Sx1PHwJZXIJJpvXMle-37" target="d_Sx1PHwJZXIJJpvXMle-34" edge="1">
