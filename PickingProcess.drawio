@@ -30,13 +30,13 @@
         <mxCell id="3FSWND0N6_TuDMLNCHhA-3" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Print Pick Marker&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="334" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0G6v4FigtctgxRXhjJNw-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3FSWND0N6_TuDMLNCHhA-5" target="3FSWND0N6_TuDMLNCHhA-36">
+        <mxCell id="0G6v4FigtctgxRXhjJNw-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3FSWND0N6_TuDMLNCHhA-5" target="3FSWND0N6_TuDMLNCHhA-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3FSWND0N6_TuDMLNCHhA-5" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Prepare all totes&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="250" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3FSWND0N6_TuDMLNCHhA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3FSWND0N6_TuDMLNCHhA-17" edge="1" target="3FSWND0N6_TuDMLNCHhA-36">
+        <mxCell id="3FSWND0N6_TuDMLNCHhA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3FSWND0N6_TuDMLNCHhA-17" target="3FSWND0N6_TuDMLNCHhA-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="522" y="190" as="targetPoint" />
           </mxGeometry>
@@ -62,7 +62,7 @@
         <mxCell id="3FSWND0N6_TuDMLNCHhA-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="694" y="508" width="310" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="0G6v4FigtctgxRXhjJNw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FSWND0N6_TuDMLNCHhA-36" target="3FSWND0N6_TuDMLNCHhA-45">
+        <mxCell id="0G6v4FigtctgxRXhjJNw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3FSWND0N6_TuDMLNCHhA-36" target="3FSWND0N6_TuDMLNCHhA-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3FSWND0N6_TuDMLNCHhA-36" value="Select Picking Line" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -116,7 +116,7 @@
         <mxCell id="tU1RTp7UTsGop1RhKcKW-2" value="Sales Order and Transfer Out" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="50" y="233" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jc-qgQJ9jOjdrMDaGDhN-2" value="Update Stock Status&lt;div&gt;in Navigator and Nexus&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="jc-qgQJ9jOjdrMDaGDhN-2" value="Update Stock Status&lt;div&gt;in Navigator and Nexus(Allocated)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="516" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
